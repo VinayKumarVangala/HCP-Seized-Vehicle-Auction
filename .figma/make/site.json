@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to browse and bid on police seized vehicles in a secure auction platform, providing transparent access to affordable vehicle purchases.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
